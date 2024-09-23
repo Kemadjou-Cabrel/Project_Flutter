@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "926498893151",
+    "project_id": "moneymanagementdouniacabrel",
+    "storage_bucket": "moneymanagementdouniacabrel.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926498893151:android:47fffb2de7e8a9cf161aea",
+        "android_client_info": {
+          "package_name": "com.example.project_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRw97Z2Xh9CiKFjvOxDt0AQcibxHgIaes"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
